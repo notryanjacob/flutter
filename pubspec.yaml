@@ -1,4 +1,4 @@
-name: destini_challenge_starting
+name: dicee
 description: A new Flutter application.
 
 version: 1.0.0+1
@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
   cupertino_icons: ^0.1.2
 
 dev_dependencies:
@@ -16,6 +17,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
+
   uses-material-design: true
+
   assets:
-  - images/ 
+  - images/
